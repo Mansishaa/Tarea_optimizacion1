@@ -1,1 +1,1 @@
-# Tarea_optimizacion1
+# Maximización y minimización
